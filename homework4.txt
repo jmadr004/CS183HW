@@ -1,0 +1,13 @@
+Joshua Madrid
+CS-183
+05/19/2019
+
+Part 1:
+	given a computer with an IP address of 10.3.12.2 provide the following information:
+		What class of network is it on?
+			10.3.12.2 is on a class A network
+		What would you expect the netmast to be in both CIDR and base 10 formats? 
+			A CIDR notation would be /8 and a netmask Base10 would be 255.0.0.0 
+		If you were told that in fact it had a netmask of /24, and it was using the default gateway IP address for that network, provide:
+			The gateway IP address: 10.3.12.1
+			The broadcast address: 10.3.12.255
